@@ -1,4 +1,4 @@
 # gittraining
-[Google Homepage](google.com)
+[Google Homepage](https://www.google.com/)
 ### hiii
 ## hiiii
