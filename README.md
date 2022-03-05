@@ -1,4 +1,4 @@
 # gittraining
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[I'm a reference-style link](www.google.com)
 ### hiii
 ## hiiii
